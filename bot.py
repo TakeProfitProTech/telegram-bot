@@ -1,6 +1,5 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
-from rapidfuzz import fuzz
 
 # 1. Вставь сюда токен бота от @BotFather
 BOT_TOKEN = "7861685554:AAFW8j6xOdTW019R7aA-vzVwByYxtrEbwic"
