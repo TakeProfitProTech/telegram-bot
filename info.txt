@@ -1,0 +1,2 @@
+https://api.telegram.org/bot8414266678:AAEe23aYGaMR7deZaPry-Jmq3F-osPTLa5k/deleteWebhook
+https://api.telegram.org/bot8414266678:AAEe23aYGaMR7deZaPry-Jmq3F-osPTLa5k/getWebhookInfo
