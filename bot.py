@@ -4,12 +4,10 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 from rapidfuzz import fuzz
 
 # 1. Bot's token from @BotFather
-# BOT_TOKEN = "7861685554:AAFW8j6xOdTW019R7aA-vzVwByYxtrEbwic"  # release
-BOT_TOKEN = "8414266678:AAEe23aYGaMR7deZaPry-Jmq3F-osPTLa5k"  # test 
+BOT_TOKEN = "7861685554:AAFW8j6xOdTW019R7aA-vzVwByYxtrEbwic"  # release
 
 # 2. Admin's chat_id (узнать через @userinfobot или через getUpdates)
-# ADMIN_ID = 7550325157  # release
-ADMIN_ID = 7690200390   # test
+ADMIN_ID = 7550325157  # release
 
 # Loading questions and answers
 QUESTIONS = []
